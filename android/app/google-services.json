@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "73067803458",
+    "project_id": "la-viande-blanche",
+    "storage_bucket": "la-viande-blanche.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73067803458:android:98bcc8512e71442daacedb",
+        "android_client_info": {
+          "package_name": "com.laviandeblanche"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73067803458-ve7aspfbssb7m1lu98dpbl0idtktnkg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laviandeblanche",
+            "certificate_hash": "aaf633d07952f1a60b263c29535509bd0161a8a7"
+          }
+        },
+        {
+          "client_id": "73067803458-c4qk88aaucd9p2qu459dnj0aphevjol8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI-Qb_Y3a923-uv6WPt8yGASdnXsM3s3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73067803458-c4qk88aaucd9p2qu459dnj0aphevjol8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
